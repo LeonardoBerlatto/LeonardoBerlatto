@@ -6,6 +6,7 @@ A 19 year old boy who loves to code
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/-Apache%20Camel-e97826?style=for-the-badge&logo=Apache&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
 
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
