@@ -1,7 +1,7 @@
 # :mage_man: Leonardo S. Berlatto
 > "Knowledge is meaningless if not shared with the world."
 >
-A 19 year old boy who loves to code
+A 20 year old boy who loves to code
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
