@@ -6,7 +6,7 @@ A 20 year old boy who loves to code
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Apache_Spark-F8F8F8?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Apache_Spark-F8F8F8?style=for-the-badge&logo=Apache-Spark&logoColor=orange)
 
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
