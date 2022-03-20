@@ -1,12 +1,11 @@
 # :mage_man: Leonardo S. Berlatto
 > "Knowledge is meaningless if not shared with the world."
 >
-A 20 year old boy who loves to code
+A 21 year old boy who loves to code
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Tableau%20-1f447e.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
-![enter image description here](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Apache_Spark-F8F8F8?style=for-the-badge&logo=Apache-Spark&logoColor=orange)
+![enter image description here](https://img.shields.io/badge/GO%20-5dc9e2.svg?&style=for-the-badge&logo=Go&logoColor=white)
 
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
