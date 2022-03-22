@@ -10,7 +10,7 @@ Helping [Ambev Tech](https://ambevtech.com.br) improve beer transportation logis
 ![enter image description here](https://img.shields.io/badge/Tableau%20-1f447e.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/GO%20-5dc9e2.svg?&style=for-the-badge&logo=Go&logoColor=white)
 
-## Courses I've taken/I'm taking
+## 📚 Courses I've taken/I'm taking
 * **REST based microservices API development in Golang** - Udemy - Ongoing;
 * **The Complete Elixir and Phoenix Bootcamp** - Udemy - Ongoing;
 * **Tableau 20 Advanced Training: Master Tableau in Data Science** - Udemy - Ongoing; 
@@ -23,10 +23,6 @@ Helping [Ambev Tech](https://ambevtech.com.br) improve beer transportation logis
 * **English Course – Advanced** – CCAA – Concluded in 2018; 
 * **Node.js: The Complete Guide to Build RESTful APIs (2018)** - Udemy - Concluded in 2018;
 
-
-## 📫 Contact
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
-
 ## 🔭 Techs 
 ![enter image description here](https://img.shields.io/badge/-Java-f1941c?style=for-the-badge&logo=Java&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -35,3 +31,7 @@ Helping [Ambev Tech](https://ambevtech.com.br) improve beer transportation logis
 ![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
 ![enter image description here](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
+
+
+## 📫 Contact
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
