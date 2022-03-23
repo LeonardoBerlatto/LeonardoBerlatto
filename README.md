@@ -20,7 +20,6 @@ Helping [Ambev Tech](https://ambevtech.com.br) improve beer transportation logis
 * **Spring Boot Microservices and Spring Cloud** - Udemy - Concluded in 2021;
 * **Docker Mastery: with Kubernetes + Swarm from a Docker Captain** - Udemy - Concluded in 2020;
 * **Angular Crash Course for Busy Developers** - Udemy - Concluded in 2018; 
-* **English Course – Advanced** – CCAA – Concluded in 2018; 
 * **Node.js: The Complete Guide to Build RESTful APIs (2018)** - Udemy - Concluded in 2018;
 
 ## 🔭 Techs 
