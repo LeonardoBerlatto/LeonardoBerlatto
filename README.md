@@ -4,7 +4,7 @@
 A 21 year old boy who loves to code
 
 ## 📍 Current Job 
-Helping [Ambev Tech](https://ambevtech.com.br) improve beer transportation logistic using Java with Spring Boot and Azure.
+Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time tracking with Spring Boot.
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Tableau%20-1f447e.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
