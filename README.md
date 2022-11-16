@@ -11,9 +11,8 @@ Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time trac
 ![enter image description here](https://img.shields.io/badge/GO%20-5dc9e2.svg?&style=for-the-badge&logo=Go&logoColor=white)
 
 ## 📚 Courses I've taken/I'm taking
-* **REST based microservices API development in Golang** - Udemy - Ongoing;
-* **The Complete Elixir and Phoenix Bootcamp** - Udemy - Ongoing;
-* **Tableau 20 Advanced Training: Master Tableau in Data Science** - Udemy - Ongoing; 
+* **REST based microservices API development in Golang** - Udemy - Concluded in 2022;
+* **Tableau 20 Advanced Training: Master Tableau in Data Science** - Udemy - Concluded in 2022; 
 * **Taming Big Data with Apache Spark and Python: Hands On!** - Udemy - Concluded in 2022;
 * **Machine Learning A-Z™: Hands-On Python & R In Data Science** - Udemy - Concluded in 2022;
 * **Statistics for Data Science and Business Analysis** - Udemy - Concluded in 2021;
