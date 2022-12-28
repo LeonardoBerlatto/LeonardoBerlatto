@@ -7,7 +7,7 @@ A 21 year old boy who loves to code
 Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time tracking with Spring Boot.
 
 ## 🌱 Currently Learning
-![enter image description here](https://img.shields.io/badge/Tableau%20-1f447e.svg?&style=for-the-badge&logo=Tableau&logoColor=white)
+![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/GO%20-5dc9e2.svg?&style=for-the-badge&logo=Go&logoColor=white)
 
 ## 📚 Courses I've taken/I'm taking
