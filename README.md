@@ -1,7 +1,7 @@
 # :mage_man: Leonardo S. Berlatto
 > "Knowledge is meaningless if not shared with the world."
 >
-A 21 year old boy who loves to code
+A 22 year old boy who loves to code
 
 ## 📍 Current Job 
 Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time tracking with Spring Boot.
@@ -9,17 +9,6 @@ Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time trac
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/GO%20-5dc9e2.svg?&style=for-the-badge&logo=Go&logoColor=white)
-
-## 📚 Courses I've taken/I'm taking
-* **REST based microservices API development in Golang** - Udemy - Concluded in 2022;
-* **Tableau 20 Advanced Training: Master Tableau in Data Science** - Udemy - Concluded in 2022; 
-* **Taming Big Data with Apache Spark and Python: Hands On!** - Udemy - Concluded in 2022;
-* **Machine Learning A-Z™: Hands-On Python & R In Data Science** - Udemy - Concluded in 2022;
-* **Statistics for Data Science and Business Analysis** - Udemy - Concluded in 2021;
-* **Spring Boot Microservices and Spring Cloud** - Udemy - Concluded in 2021;
-* **Docker Mastery: with Kubernetes + Swarm from a Docker Captain** - Udemy - Concluded in 2020;
-* **Angular Crash Course for Busy Developers** - Udemy - Concluded in 2018; 
-* **Node.js: The Complete Guide to Build RESTful APIs (2018)** - Udemy - Concluded in 2018;
 
 ## 🔭 Techs 
 ![enter image description here](https://img.shields.io/badge/-Java-f1941c?style=for-the-badge&logo=Java&logoColor=white)
