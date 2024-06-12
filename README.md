@@ -1,7 +1,7 @@
 # :mage_man: Leonardo S. Berlatto
 > "Knowledge is meaningless if not shared with the world."
 >
-A 22 year old boy who loves code and music.
+A 23 year old boy who loves code and music.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
