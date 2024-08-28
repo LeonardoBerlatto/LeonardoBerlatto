@@ -9,9 +9,9 @@ Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time trac
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![enter image description here](https://img.shields.io/badge/Elixir%20-351350.svg?&style=for-the-badge&logo=Elixir&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Go-00aed8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Kubernetes-326ee5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Amazon%20EKS-f58533?style=for-the-badge&logo=amazoneks&logoColor=white)
+
 
 ## 🔭 Techs 
 ![enter image description here](https://img.shields.io/badge/-Java-f1941c?style=for-the-badge&logo=Java&logoColor=white)
