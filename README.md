@@ -19,7 +19,6 @@ Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time trac
 ![enter image description here](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
-![enter image description here](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
 
