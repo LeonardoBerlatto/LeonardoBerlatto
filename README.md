@@ -5,7 +5,7 @@ A 23 year old man who loves code and music.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
-Helping [e-core](https://www.e-core.com/na-en/) creating solutions for time tracking with Java and Spring Boot.
+Helping SAP create reporting and analytics solutions Java and Spring Boot.
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
