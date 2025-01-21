@@ -5,7 +5,7 @@ A 23 year old man who loves code and music.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
-Helping SAP create reporting and analytics solutions Java and Spring Boot.
+Helping SAP create reporting and analytics solutions using Java and Spring Boot.
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
