@@ -1,22 +1,24 @@
 # :mage_man: Leonardo S. Berlatto
 > "Knowledge is meaningless if not shared with the world."
 >
-A 23 year old man who loves code and music.
+A 24 year old man who loves code and music.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
 Helping SAP create reporting and analytics solutions using Java and Spring Boot.
 
 ## 🌱 Currently Learning
-![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Go-00aed8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Kubernetes-326ee5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Terraform-4040b2?style=for-the-badge&logo=Terraform&logoColor=white)
+
 
 
 ## 🔭 Techs 
 ![enter image description here](https://img.shields.io/badge/-Java-f1941c?style=for-the-badge&logo=Java&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
+![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
+![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
 ![enter image description here](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
