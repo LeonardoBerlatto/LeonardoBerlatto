@@ -5,7 +5,8 @@ A 24 year old man who loves code and music.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
-Helping SAP create reporting and analytics solutions using Java and Spring Boot.
+Helping Coinbase create new solutions for customer experience. 
+
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/-Go-00aed8.svg?&style=for-the-badge&logo=Go&logoColor=white)
