@@ -1,8 +1,7 @@
 # Hi! My name is Leonardo Berlatto, nice to meet you. 👋
 > "Knowledge is meaningless if not shared with the world."
 
-A 24 year old man who loves code, music and photography.
-Backend Development and DevOps are my passions
+I'm a software engineer with a passion for creating magical interactions in software. I consider myself a [product-minded enginee](https://blog.pragmaticengineer.com/the-product-minded-engineer/)r: focused on creating business value and understanding what makes a product shine.
 
 ## 📍 Current Job 
 Helping Coinbase create solutions for agentic customer experience. 
