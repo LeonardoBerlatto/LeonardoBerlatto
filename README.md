@@ -1,11 +1,11 @@
-# :mage_man: Leonardo S. Berlatto
+# Hi! My name is Leonardo Berlatto, nice to meet you. 👋
 > "Knowledge is meaningless if not shared with the world."
->
-A 24 year old man who loves code and music.
+
+A 24 year old man who loves code, music and photography.
 Backend Development and DevOps are my passions
 
 ## 📍 Current Job 
-Helping Coinbase create new solutions for customer experience. 
+Helping Coinbase create solutions for agentic customer experience. 
 
 
 ## 🌱 Currently Learning
