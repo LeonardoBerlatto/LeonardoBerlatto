@@ -1,28 +1,18 @@
 # Hi! My name is Leonardo Berlatto, nice to meet you. 👋
-> "Knowledge is meaningless if not shared with the world."
 
-I'm a software engineer with a passion for creating magical interactions in software. I consider myself a [product-minded engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/): focused on creating business value and understanding what makes a product shine.
+I'm a software engineer with a passion for creating great interactions with software. I consider myself a [product-minded engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/): I focus on creating business value and understanding what makes a product shine.
+
+I love coding, cooking, reading, nature and photography! 💻🥘📚🌲📸
 
 ## 📍 Current Job 
 Helping Coinbase create solutions for agentic customer experience. 
-
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/-Go-00aed8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Kubernetes-326ee5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/-Terraform-4040b2?style=for-the-badge&logo=Terraform&logoColor=white)
 
-
-
-## 🔭 Techs 
-![enter image description here](https://img.shields.io/badge/-Java-f1941c?style=for-the-badge&logo=Java&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white)
-![enter image description here](https://img.shields.io/badge/Kotlin%20-563dac.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![enter image description here](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white) 
-![enter image description here](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white)
-![enter image description here](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=white)
-
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)](https://www.linkedin.com/public-profile/in/leonardo-berlatto-b1a654159)
+
+
